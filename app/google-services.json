@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "846977113869",
+    "firebase_url": "https://myfirebaseauthapp-2e30e.firebaseio.com",
+    "project_id": "myfirebaseauthapp-2e30e",
+    "storage_bucket": "myfirebaseauthapp-2e30e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846977113869:android:8835d926c33869a2",
+        "android_client_info": {
+          "package_name": "com.kkaty.timemanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846977113869-ms8b1e2jvcdmlgfpf2e3dspei6sakkki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbuM-LX6LDFyLwugtWKjuSuN7EF5y9iuk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
